@@ -1,0 +1,7 @@
+langchain-core==1.7.3
+langchain-openai
+langgraph==1.2.18
+python-dotenv
+requests
+ipykernel
+streamlit
